@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nuriffah</h1>
+<h1 align="center">Hi 👋, I'm Iffah</h1>
 <h3 align="center">A diligent student from UTM</h3>
 
 - 🌱 I’m currently learning **database**
